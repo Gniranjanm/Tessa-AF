@@ -6,19 +6,19 @@
 
   <b>✰ＴＥＳＳＡ ＡＦ✰</b>
 
-[![GitHub 2](https://img.shields.io/badge/Another-GitHub-39302f?style=flat&logo=github)](https://telegram.dog/sarthak_xd)  
+[![GitHub 2](https://img.shields.io/badge/Another-GitHub-39302f?style=flat&logo=github)](https://telegram.dog/sarthakkale16)  
 
-[![Stars](https://img.shields.io/github/stars/sarthakkale16/aadicode2?style=flat-square&color=pink)](https://github.com/sarthakKale16/aadicode2)
+[![Stars](https://img.shields.io/github/stars/sarthakxd16/Tessa-AF?style=flat-square&color=pink)](https://github.com/sarthakxd16/Tessa-AF)
 
-[![Forks](https://img.shields.io/github/forks/sarthakkale16/aadicode2?style=flat-square&color=red)](https://github.com/sarthakKale16/aadicode2/fork)
+[![Forks](https://img.shields.io/github/forks/sarthakxd16/Tessa-AF?style=flat-square&color=red)](https://github.com/sarthakxd16/Tessa-AF/fork)
 
-[![Size](https://img.shields.io/github/repo-size/sarthakkale16/aadicode2?style=flat-square&color=yellow)](https://github.com/sarthakKale16/aadicode2/)   
+[![Size](https://img.shields.io/github/repo-size/sarthakxd16/Tessa-AF?style=flat-square&color=yellow)](https://github.com/sarthakxd16/Tessa-AF/)   
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sarthakxd16/Tessa-AF)   
 
-[![Contributors](https://img.shields.io/github/contributors/sarthakkale16/aadicode2?style=flat-square&color=blue)](https://github.com/sarthakkale16/aadicode2/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/sarthakxd16/Tessa-AF?style=flat-square&color=blue)](https://github.com/sarthakkale16/aadicode2/graphs/contributors)
 
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sarthakkale16/aadicode2/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sarthakxd16/Tessa-AF/blob/main/LICENSE)
 
 [![Snapchat](https://img.shields.io/badge/Snapchat-30806f?style=flat&logo=snapchat)](https://www.snapchat.com/add/sarthakkale16)  
 
@@ -112,7 +112,7 @@ git clone https://github.com/sarthakxd16/tessa-af
 
 # Install Packages
 
-pip3 install -U -r requirements.txt
+pip3 install -U -r requirements.txt 
 
 Edit info.py with variables as given below then run bot
 
@@ -182,15 +182,15 @@ python3 bot.py
 
 ## Support
 
-[![telegram badge](https://img.shields.io/badge/Telegram-RequestGroup-30302f?style=flat&logo=telegram)](https://telegram.dog/requestbox1official)
+[![telegram badge](https://img.shields.io/badge/TessaAF-Updates-30702f?style=flat&logo=telegram)](https://telegram.dog/requestbox1official)
 
-[![telegram badge](https://img.shields.io/badge/Requestbox1-Updates-30302f?style=flat&logo=telegram)](https://telegram.dog/helpsarthak_bot)
+[![telegram badge](https://img.shields.io/badge/Requestbox1-Updates-30309f?style=flat&logo=telegram)](https://telegram.dog/helpsarthak_bot)
 
-[![telegram badge](https://img.shields.io/badge/Telegram-Premium-30302f?style=flat&logo=telegram)](https://telegram.dog/rb1official)
+[![telegram badge](https://img.shields.io/badge/Telegram-Premium-10302f?style=flat&logo=telegram)](https://telegram.dog/rb1official)
 
 ## Credits 
 
-* [![Subin & Sarthak](https://img.shields.io/static/v1?label=Requestbox1&message=devs&color=pink)](https://telegram.dog/sarthakkale16)
+* [![Subin & Sarthak](https://img.shields.io/static/v1?label=Requestbox1&message=devs&color=cyan)](https://telegram.dog/sarthakkale16)
 
 ## Thanks to 
 
@@ -208,6 +208,7 @@ python3 bot.py
 
 [Note To A So Called Dev](https://telegram.dog/know_sarthak16): 
 
+Report Bugs to [Creator](https://telegram.dog/helpsarthak_bot)
 Kanging this codes and and editing a few lines and releasing a V.x  or an beta , gama branches of your repo won't make you a Developer But You Can Obviously Do It To Learn New Things By Giving Credits ❤️
 
 This Repo Originally Belongs To Eva Team But I Had To Edit This As Subin Sir Made It Private & Archived The Repo
